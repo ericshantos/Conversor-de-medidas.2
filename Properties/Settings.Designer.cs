@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Conversor_de_medidas.Properties
+namespace Conversor.Properties
 {
 
 
